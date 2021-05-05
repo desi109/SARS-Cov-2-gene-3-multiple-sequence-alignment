@@ -1,0 +1,1 @@
+t_coffee -in=seqdump.txt -mode=regular -output=score_html clustalw_aln pir_aln pir_seq gcg fasta_aln score_ascii msf_aln phylip score_pdf -maxnseq=150 -maxlen=10000 -case=upper -seqnos=off -outorder=input -run_name=result -multi_core=4 -quiet=stdout
